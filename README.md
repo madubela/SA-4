@@ -63,3 +63,18 @@ percentage of project completion, as they provide a relative measurement of
 performance.
 • Subjective reports are not desirable, demonstrating stakeholder involvement 
 and a need for more communication
+
+
+Certainly! Here's a more concise summary:
+
+1. Identify stakeholders.
+2. Understand their communication preferences and needs.
+3. Set communication objectives.
+4. Choose suitable communication channels.
+5. Develop a communication plan detailing who, what, when, and how.
+6. Establish a schedule for regular updates.
+7. Manage expectations by clarifying roles and responsibilities.
+8. Provide timely and relevant updates to stakeholders.
+9. Encourage open dialogue and feedback.
+10. Address conflicts constructively.
+11. Document all communication for future reference and accountability.
